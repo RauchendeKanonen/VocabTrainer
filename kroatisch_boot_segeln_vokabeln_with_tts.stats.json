@@ -1,0 +1,142 @@
+{
+  "Boot\tbrod": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Schiff\tbrod": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Segel\tjedro": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Mast\tjarbol": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Anker\tsidro": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Hafen\tluka": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Leine\tuže": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Knoten\tčvor": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Ruder\tkormilo": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Steuerrad\tkotač kormila": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Deck\tpaluba": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Kajüte\tkabina": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Motor\tmotor": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Wind\tvjetar": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Welle\tval": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Küste\tobala": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Insel\totok": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Meer\tmore": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Kompass\tkompas": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Karte\tkarta": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  }
+}

@@ -1,0 +1,1 @@
+python batch_tts.py "$1"   --skip-header   --col 1   --voice-prompt voice/female.wav   --cfg-scale 2.5   --repetition-penalty 1.0   --top-p 0.1   --temperature 0.2   --max-new-tokens 64   --do-sample --verbose --prefix "Sada... kažem! - " --suffix "! - jasno."

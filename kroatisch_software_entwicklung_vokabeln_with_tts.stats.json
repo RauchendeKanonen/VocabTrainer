@@ -1,0 +1,142 @@
+{
+  "Computer\tračunalo": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Bildschirm\tzaslon": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Tastatur\ttipkovnica": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Maus\tmiš": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Programm\tprogram": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Code\tkod": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Fehler\tgreška": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Debuggen\totklanjanje grešaka": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Server\tposlužitelj": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Netzwerk\tmreža": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Datenbank\tbaza podataka": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Datei\tdatoteka": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Ordner\tmapa": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Speicher\tmemorija": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Prozessor\tprocesor": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Betriebssystem\toperativni sustav": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Treiber\tupravljački program": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Schnittstelle\tsučelje": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Version\tverzija": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Projekt\tprojekt": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  }
+}

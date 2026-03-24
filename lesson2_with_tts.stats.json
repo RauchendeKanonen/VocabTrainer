@@ -1,0 +1,800 @@
+{
+  "sein\tbiti": {
+    "confidence": 38,
+    "seen": 5,
+    "correct": 4,
+    "wrong": 1,
+    "last_seen_ts": 1770623647.0175762
+  },
+  "haben\timati": {
+    "confidence": 36,
+    "seen": 10,
+    "correct": 5,
+    "wrong": 5,
+    "last_seen_ts": 1770623563.850416
+  },
+  "gehen\tići": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "kommen\tdoći": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "machen / tun\traditi": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "sagen\treći": {
+    "confidence": 48,
+    "seen": 11,
+    "correct": 4,
+    "wrong": 7,
+    "last_seen_ts": 1769615385.657102
+  },
+  "sehen\tvidjeti": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "hören\tčuti": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "wissen\tznati": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "verstehen\trazumjeti": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "geben\tdati": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "nehmen\tuzeti": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "essen\tjesti": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769615044.1242478
+  },
+  "trinken\tpiti": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "kaufen\tkupiti": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "ja (Zustimmung)\tda": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "nein (Ablehnung)\tne": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Hilfe!\tUpomoć!": {
+    "confidence": 60,
+    "seen": 7,
+    "correct": 5,
+    "wrong": 2,
+    "last_seen_ts": 1770623592.114386
+  },
+  "Vorsicht!\tPazite!": {
+    "confidence": 48,
+    "seen": 14,
+    "correct": 5,
+    "wrong": 9,
+    "last_seen_ts": 1769616928.8330667
+  },
+  "Entschuldigung (kurz)\toprostite": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Bitte (ich hätte gern…)\tmolim": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Kein Problem\tnema problema": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769606546.2458797
+  },
+  "Willkommen\tdobrodošli": {
+    "confidence": 60,
+    "seen": 5,
+    "correct": 5,
+    "wrong": 0,
+    "last_seen_ts": 1770623693.613523
+  },
+  "Haus\tkuća": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Zimmer\tsoba": {
+    "confidence": 50,
+    "seen": 6,
+    "correct": 5,
+    "wrong": 1,
+    "last_seen_ts": 1769615476.3670287
+  },
+  "Tür\tvrata": {
+    "confidence": 40,
+    "seen": 13,
+    "correct": 5,
+    "wrong": 8,
+    "last_seen_ts": 1769617107.152176
+  },
+  "Fenster\tprozor": {
+    "confidence": 67,
+    "seen": 13,
+    "correct": 6,
+    "wrong": 7,
+    "last_seen_ts": 1770623627.0358295
+  },
+  "Bett\tkrevet": {
+    "confidence": 57,
+    "seen": 14,
+    "correct": 6,
+    "wrong": 8,
+    "last_seen_ts": 1769615713.1463745
+  },
+  "Tisch\tstol": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769275144.7078505
+  },
+  "Stuhl\tstolica": {
+    "confidence": 50,
+    "seen": 8,
+    "correct": 5,
+    "wrong": 3,
+    "last_seen_ts": 1769616668.6780488
+  },
+  "Schlüssel\tključ": {
+    "confidence": 50,
+    "seen": 8,
+    "correct": 5,
+    "wrong": 3,
+    "last_seen_ts": 1769616550.6033912
+  },
+  "Straße\tulica": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Stadt\tgrad": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Meer\tmore": {
+    "confidence": 60,
+    "seen": 5,
+    "correct": 5,
+    "wrong": 0,
+    "last_seen_ts": 1770623620.514393
+  },
+  "Strand\tplaža": {
+    "confidence": 48,
+    "seen": 5,
+    "correct": 4,
+    "wrong": 1,
+    "last_seen_ts": 1769605188.0551634
+  },
+  "Hafen\tluka": {
+    "confidence": 48,
+    "seen": 5,
+    "correct": 4,
+    "wrong": 1,
+    "last_seen_ts": 1769604509.112694
+  },
+  "Geschäft / Laden\ttrgovina": {
+    "confidence": 38,
+    "seen": 13,
+    "correct": 4,
+    "wrong": 9,
+    "last_seen_ts": 1770623556.907317
+  },
+  "gut\tdobar": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "schlecht\tloš": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "groß\tvelik": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "klein\tmali": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "neu\tnov": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "alt\tstar": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "schön\tlijep": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "teuer\tskup": {
+    "confidence": 0,
+    "seen": 15,
+    "correct": 2,
+    "wrong": 13,
+    "last_seen_ts": 1770623506.6759188
+  },
+  "billig\tjeftin": {
+    "confidence": 32,
+    "seen": 13,
+    "correct": 6,
+    "wrong": 7,
+    "last_seen_ts": 1770623582.7372868
+  },
+  "heiß\tvruć": {
+    "confidence": 74,
+    "seen": 7,
+    "correct": 7,
+    "wrong": 0,
+    "last_seen_ts": 1770623682.701805
+  },
+  "kalt\thladno": {
+    "confidence": 64,
+    "seen": 8,
+    "correct": 7,
+    "wrong": 1,
+    "last_seen_ts": 1770623656.129437
+  },
+  "wie viel?\tkoliko?": {
+    "confidence": 50,
+    "seen": 8,
+    "correct": 5,
+    "wrong": 3,
+    "last_seen_ts": 1769614851.3769772
+  },
+  "welcher / welche / welches\tkoji / koja / koje": {
+    "confidence": 48,
+    "seen": 6,
+    "correct": 4,
+    "wrong": 2,
+    "last_seen_ts": 1769616038.8561232
+  },
+  "hier\tovdje": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "dort\ttamo": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "jetzt\tsada": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "später\tkasnije": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "immer\tuvijek": {
+    "confidence": 0,
+    "seen": 13,
+    "correct": 3,
+    "wrong": 10,
+    "last_seen_ts": 1770623665.9064
+  },
+  "oft\tčesto": {
+    "confidence": 0,
+    "seen": 12,
+    "correct": 0,
+    "wrong": 12,
+    "last_seen_ts": 1770623702.5502722
+  },
+  "sehr\tjako": {
+    "confidence": 12,
+    "seen": 13,
+    "correct": 2,
+    "wrong": 11,
+    "last_seen_ts": 1769617100.3979437
+  },
+  "Dorf\tselo": {
+    "confidence": 60,
+    "seen": 8,
+    "correct": 5,
+    "wrong": 3,
+    "last_seen_ts": 1770623640.397629
+  },
+  "Fluss\trijeka": {
+    "confidence": 48,
+    "seen": 6,
+    "correct": 4,
+    "wrong": 2,
+    "last_seen_ts": 1769616064.7977304
+  },
+  "See\tjezero": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769605103.9116106
+  },
+  "Berg\tplanina": {
+    "confidence": 38,
+    "seen": 7,
+    "correct": 4,
+    "wrong": 3,
+    "last_seen_ts": 1770623514.9164178
+  },
+  "Wald\tšuma": {
+    "confidence": 36,
+    "seen": 11,
+    "correct": 5,
+    "wrong": 6,
+    "last_seen_ts": 1770623607.5542755
+  },
+  "Auto\tauto": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769605145.0448825
+  },
+  "Zug\tvlak": {
+    "confidence": 50,
+    "seen": 7,
+    "correct": 5,
+    "wrong": 2,
+    "last_seen_ts": 1769615568.7408507
+  },
+  "Schiff\tbrod": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769614639.6421778
+  },
+  "Flugzeug\tzrakoplov": {
+    "confidence": 0,
+    "seen": 13,
+    "correct": 3,
+    "wrong": 10,
+    "last_seen_ts": 1769617153.2360578
+  },
+  "Fahrrad\tbicikl": {
+    "confidence": 48,
+    "seen": 5,
+    "correct": 4,
+    "wrong": 1,
+    "last_seen_ts": 1769614698.4402924
+  },
+  "Markt\ttržnica": {
+    "confidence": 14,
+    "seen": 14,
+    "correct": 3,
+    "wrong": 11,
+    "last_seen_ts": 1770623533.0612967
+  },
+  "Schule\tškola": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769604581.7526891
+  },
+  "Lehrer\tučitelj": {
+    "confidence": 48,
+    "seen": 9,
+    "correct": 4,
+    "wrong": 5,
+    "last_seen_ts": 1769616337.1404989
+  },
+  "Schüler\tučenik": {
+    "confidence": 14,
+    "seen": 10,
+    "correct": 2,
+    "wrong": 8,
+    "last_seen_ts": 1770623615.329852
+  },
+  "Buch\tknjiga": {
+    "confidence": 52,
+    "seen": 10,
+    "correct": 6,
+    "wrong": 4,
+    "last_seen_ts": 1769616998.2987688
+  },
+  "Bleistift\tolovka": {
+    "confidence": 16,
+    "seen": 15,
+    "correct": 3,
+    "wrong": 12,
+    "last_seen_ts": 1770623652.8588881
+  },
+  "Küche\tkuhinja": {
+    "confidence": 50,
+    "seen": 8,
+    "correct": 5,
+    "wrong": 3,
+    "last_seen_ts": 1769614859.689236
+  },
+  "Badezimmer\tkupaonica": {
+    "confidence": 0,
+    "seen": 15,
+    "correct": 0,
+    "wrong": 15,
+    "last_seen_ts": 1770623541.630107
+  },
+  "Handtuch\tručnik": {
+    "confidence": 40,
+    "seen": 16,
+    "correct": 5,
+    "wrong": 11,
+    "last_seen_ts": 1769617018.9317608
+  },
+  "Seife\tsapun": {
+    "confidence": 48,
+    "seen": 8,
+    "correct": 4,
+    "wrong": 4,
+    "last_seen_ts": 1769616897.4240277
+  },
+  "Käse\tsir": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769604250.78328
+  },
+  "Birne\tkruška": {
+    "confidence": 50,
+    "seen": 7,
+    "correct": 5,
+    "wrong": 2,
+    "last_seen_ts": 1769606463.412564
+  },
+  "Orange\tnaranča": {
+    "confidence": 48,
+    "seen": 12,
+    "correct": 4,
+    "wrong": 8,
+    "last_seen_ts": 1769617103.9658608
+  },
+  "Kartoffel\tkrumpir": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769615474.4713852
+  },
+  "Tomate\trajčica": {
+    "confidence": 24,
+    "seen": 14,
+    "correct": 5,
+    "wrong": 9,
+    "last_seen_ts": 1769617083.6619706
+  },
+  "Zwiebel\tluk": {
+    "confidence": 38,
+    "seen": 9,
+    "correct": 4,
+    "wrong": 5,
+    "last_seen_ts": 1770623517.8834481
+  },
+  "Saft\tsok": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769614972.6129408
+  },
+  "Frühstück\tdoručak": {
+    "confidence": 24,
+    "seen": 8,
+    "correct": 2,
+    "wrong": 6,
+    "last_seen_ts": 1769617011.1499157
+  },
+  "Mittagessen\tručak": {
+    "confidence": 48,
+    "seen": 11,
+    "correct": 4,
+    "wrong": 7,
+    "last_seen_ts": 1769617028.057986
+  },
+  "Abendessen\tvečera": {
+    "confidence": 48,
+    "seen": 6,
+    "correct": 4,
+    "wrong": 2,
+    "last_seen_ts": 1769606688.5876741
+  },
+  "Nacht\tnoć": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Sonne\tsunce": {
+    "confidence": 50,
+    "seen": 6,
+    "correct": 5,
+    "wrong": 1,
+    "last_seen_ts": 1769616178.43975
+  },
+  "Mond\tmjesec": {
+    "confidence": 52,
+    "seen": 9,
+    "correct": 6,
+    "wrong": 3,
+    "last_seen_ts": 1769616847.9085414
+  },
+  "Stern\tzvijezda": {
+    "confidence": 26,
+    "seen": 11,
+    "correct": 3,
+    "wrong": 8,
+    "last_seen_ts": 1769617023.594889
+  },
+  "Regen\tkiša": {
+    "confidence": 48,
+    "seen": 7,
+    "correct": 4,
+    "wrong": 3,
+    "last_seen_ts": 1769606779.2083144
+  },
+  "Schnee\tsnijeg": {
+    "confidence": 48,
+    "seen": 6,
+    "correct": 4,
+    "wrong": 2,
+    "last_seen_ts": 1769614901.153924
+  },
+  "Wind\tvjetar": {
+    "confidence": 48,
+    "seen": 8,
+    "correct": 4,
+    "wrong": 4,
+    "last_seen_ts": 1769615285.5953772
+  },
+  "warm\ttoplo": {
+    "confidence": 48,
+    "seen": 8,
+    "correct": 4,
+    "wrong": 4,
+    "last_seen_ts": 1769615861.6290445
+  },
+  "schnell\tbrz": {
+    "confidence": 48,
+    "seen": 10,
+    "correct": 5,
+    "wrong": 5,
+    "last_seen_ts": 1769617096.8940332
+  },
+  "langsam\tspor": {
+    "confidence": 26,
+    "seen": 13,
+    "correct": 4,
+    "wrong": 9,
+    "last_seen_ts": 1769617058.2240388
+  },
+  "hässlich\tružan": {
+    "confidence": 26,
+    "seen": 13,
+    "correct": 4,
+    "wrong": 9,
+    "last_seen_ts": 1770623547.5653267
+  },
+  "offen\totvoren": {
+    "confidence": 50,
+    "seen": 9,
+    "correct": 5,
+    "wrong": 4,
+    "last_seen_ts": 1769616011.5420995
+  },
+  "geschlossen\tzatvoren": {
+    "confidence": 48,
+    "seen": 8,
+    "correct": 4,
+    "wrong": 4,
+    "last_seen_ts": 1769616231.3829484
+  },
+  "Anfang\tpočetak": {
+    "confidence": 0,
+    "seen": 12,
+    "correct": 0,
+    "wrong": 12,
+    "last_seen_ts": 1769617071.4077322
+  },
+  "Ende\tkraj": {
+    "confidence": 0,
+    "seen": 11,
+    "correct": 2,
+    "wrong": 9,
+    "last_seen_ts": 1770623567.8402805
+  },
+  "Arbeit (Tätigkeit)\trad": {
+    "confidence": 50,
+    "seen": 7,
+    "correct": 5,
+    "wrong": 2,
+    "last_seen_ts": 1769615891.5343194
+  },
+  "Spiel\tigra": {
+    "confidence": 26,
+    "seen": 7,
+    "correct": 3,
+    "wrong": 4,
+    "last_seen_ts": 1769617047.70992
+  },
+  "Musik\tglazba": {
+    "confidence": 52,
+    "seen": 14,
+    "correct": 7,
+    "wrong": 7,
+    "last_seen_ts": 1769616907.8250167
+  },
+  "Film\tfilm": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769604072.122304
+  },
+  "Bild\tslika": {
+    "confidence": 50,
+    "seen": 10,
+    "correct": 5,
+    "wrong": 5,
+    "last_seen_ts": 1769616565.6286361
+  },
+  "Farbe\tboja": {
+    "confidence": 48,
+    "seen": 7,
+    "correct": 5,
+    "wrong": 2,
+    "last_seen_ts": 1769615219.4721599
+  },
+  "rot\tcrven": {
+    "confidence": 36,
+    "seen": 15,
+    "correct": 5,
+    "wrong": 10,
+    "last_seen_ts": 1770623599.3879213
+  },
+  "blau\tplav": {
+    "confidence": 48,
+    "seen": 4,
+    "correct": 4,
+    "wrong": 0,
+    "last_seen_ts": 1769606776.7695093
+  },
+  "grün\tzelen": {
+    "confidence": 57,
+    "seen": 9,
+    "correct": 6,
+    "wrong": 3,
+    "last_seen_ts": 1770623674.4482083
+  },
+  "gelb\tžut": {
+    "confidence": 50,
+    "seen": 12,
+    "correct": 5,
+    "wrong": 7,
+    "last_seen_ts": 1769616344.5182965
+  },
+  "schwarz\tcrn": {
+    "confidence": 48,
+    "seen": 7,
+    "correct": 4,
+    "wrong": 3,
+    "last_seen_ts": 1769615645.3742678
+  },
+  "weiß\tbijel": {
+    "confidence": 38,
+    "seen": 8,
+    "correct": 4,
+    "wrong": 4,
+    "last_seen_ts": 1770623575.9189155
+  }
+}

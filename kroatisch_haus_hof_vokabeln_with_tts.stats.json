@@ -1,0 +1,268 @@
+{
+  "Haus\tkuća": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Wohnung\tstan": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Dach\tkrov": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Wand\tzid": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Boden\tpod": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Fenster\tprozor": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Tür\tvrata": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Garten\tvrt": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Hof\tdvorište": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Baum\tstablo": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Blume\tcvijet": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Gras\ttrava": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Zaun\tograda": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Werkzeug\talat": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Hammer\tčekić": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Säge\tpila": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Eimer\tkanta": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Wasserhahn\tslavina": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Strom\tstruja": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Licht\tsvjetlo": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Holz\tDrvo": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Brett\todbor": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Balken\tgreda": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Latte\tbar": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Dachpfanne\tkrovni crijep": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Mauer\tZid": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Treppe\tStube": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Traktor\ttraktor": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Schaufel\tlopata": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Beton\tbetonski": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Kamin\tDimnjak": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Ofen\tPećnica": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Heizung\tGrijanje": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Rohr\tCijev": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Waschbecken\tKupaonski umivaonik": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Schlafzimmer\tspavaća soba": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Keller\tpodrum": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Dachboden\tpotkrovlje": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  }
+}

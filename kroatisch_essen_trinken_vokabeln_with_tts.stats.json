@@ -1,0 +1,275 @@
+{
+  "Essen\thrana": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Trinken\tpiće": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Wasser\tvoda": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Brot\tkruh": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Butter\tmaslac": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Käse\tsir": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Fleisch\tmeso": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Fisch\triba": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Gemüse\tpovrće": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Obst\tvoće": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Apfel\tjabuka": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Milch\tmlijeko": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Kaffee\tkava": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Tee\tčaj": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Bier\tpivo": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Wein\tvino": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Frühstück\tdoručak": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Mittagessen\tručak": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Abendessen\tvečera": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Salz\tsol": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Wurst\tKobasica": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Steak\todrezak": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Schweinefleisch\tsvinjetina": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Rindfleisch\tgovedina": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Metzger\tmesar": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Bäckerei\tpekara": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Saft\tSok": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Frischkäse\tkrem sir": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Marmelade\tpekmez": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Pfeffer\tpapar": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Braten\tPržiti": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Gulasch\tgulaš": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Suppe\tJuha": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Pudding\tpuding": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Schokolade\tČokolada": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Schnaps\tliker": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Panne\tgreška": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Topf\tLonac": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  },
+  "Herd\tŠtednjak": {
+    "confidence": 0,
+    "seen": 0,
+    "correct": 0,
+    "wrong": 0,
+    "last_seen_ts": 0.0
+  }
+}
